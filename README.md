@@ -1,4 +1,6 @@
 # DS
 Justin's Data Science Profile
 
-CV
+* [Data Science CV](DataScientist_TH.pdf)
+
+
